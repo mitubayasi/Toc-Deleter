@@ -3,7 +3,7 @@
 
 <a href="https://twitter.com/intent/tweet?text=Toc-Deleter&url=https%3A%2F%2Fmitubayasi.github.io%2FToc-Deleter%2F&hashtags=Kindle+Comic+Creator&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
   <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
-       alt="tweet button" title="Toc-Deleter"></img>
+       alt="tweet button" title="Toc-Deleter">
 </a>  
 
 ## English  
