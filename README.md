@@ -1,5 +1,11 @@
 # Toc-Deleter  
-<img src="https://user-images.githubusercontent.com/65753345/84630630-3110ee80-af27-11ea-9f09-8b785df067ee.JPG" width="680px">　　
+<img src="https://user-images.githubusercontent.com/65753345/84630630-3110ee80-af27-11ea-9f09-8b785df067ee.JPG" width="680px">　
+
+<a href="https://twitter.com/intent/tweet?text=Toc-Deleter&url=https%3A%2F%2Fmitubayasi.github.io%2FToc-Deleter%2F&hashtags=Kindle+Comic+Creator&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="Toc-Deleter"></img>
+</a>  
+
 ## English  
 Toc-Deleter can delete unnecessary contents items (Page-xxx) from the contents file (toc.ncx) created by Kindle Comic Creator of Amazon at once.  
 
