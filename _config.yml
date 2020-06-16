@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
+title: Toc-Deleter
+description: Delete unnecessary contents (toc.ncx) of Kindle Comic Creator.
 gems:
   - jekyll-sitemap
